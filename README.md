@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 * 🎓 I'm a college student passionate about technology
-* 💡 Interested in **Web Development, & AI **
+* 💡 Interested in **Web Development, & AI**
 * 🌱 Currently learning and building projects using modern tech
 * ⚡ Love exploring new tools and solving real-world problems
 
