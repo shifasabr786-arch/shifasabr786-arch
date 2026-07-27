@@ -32,10 +32,5 @@
 ## 🌐 Connect With Me
 
 * 💼 LinkedIn: (https://www.linkedin.com/in/shifa-32abb4242/)
-* 📧 Email: (shifasabr786@gmail.com)
 
 ---
-
-## ✨ Fun Fact
-
-> I’m on a journey to become a skilled developer and build impactful projects 🚀
